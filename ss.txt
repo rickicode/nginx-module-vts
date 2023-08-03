@@ -1,0 +1,1 @@
+cd util && ./tplToDefine.sh ../share/status.template.html > ../src/ngx_http_vhost_traffic_status_module_html.hc
